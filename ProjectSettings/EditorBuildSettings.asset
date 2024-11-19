@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Menu.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scenes/HouseScene.unity
+    guid: 261548a5f5662c441ab881817b638867
+  - enabled: 1
+    path: Assets/Scenes/ArcadeMenu.unity
+    guid: 8156cdb3444357a49bfe4c848740ca3d
+  - enabled: 1
+    path: Assets/Scenes/CatchGame.unity
+    guid: 139a62f30d4121540a964b576be622f8
+  - enabled: 1
+    path: Assets/Scenes/MemoryGame.unity
+    guid: 8f5b8982cb838b8409de80ac459bd7c2
+  - enabled: 1
+    path: Assets/Scenes/RunGame.unity
+    guid: 24d899ef4ce7bdd48aa75f5e9b798546
+  m_configObjects: {}

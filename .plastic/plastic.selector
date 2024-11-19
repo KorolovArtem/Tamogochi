@@ -1,0 +1,4 @@
+repository "Tamogochi@Artem_Korolov@cloud"
+  path "/"
+    br "/main"
+    co "/main"
